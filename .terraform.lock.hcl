@@ -2,7 +2,7 @@
 # Manual edits may be lost in future updates.
 
 provider "registry.terraform.io/hashicorp/googleworkspace" {
-  version = "0.4.0"
+  version = "1.9.5"
   hashes = [
     "h1:nBT98QvJthHm76ZVO++gX2+9qjdA7Q+npG3dh3gMpHw=",
     "zh:04e92e30ac48714bcff7c39e3034fb7180b786c471a0292aee2f45a7008625f2",
