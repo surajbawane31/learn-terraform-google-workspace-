@@ -1,4 +1,4 @@
 # Copyright (c) HashiCorp, Inc.
 # SPDX-License-Identifier: MIT
 
-domain = 
+domain = techcloudsuraj.com
